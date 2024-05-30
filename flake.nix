@@ -12,6 +12,9 @@
         ./modules
         ./systems
         ./users
+
+	# dev outputs
+        ./hydraJobs.nix
       ];
 
       perSystem = {pkgs, ...}: {
