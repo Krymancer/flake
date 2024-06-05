@@ -17,4 +17,5 @@ WSL windows install (WIP)
 
 ## Special Thanks
 
-I'm just starting in nix and I copied and am chaiging [getchoo](https://github.com/getchoo) [flake](https://github.com/getchoo/flake/tree/main).
+- [getchoo's](https://github.com/getchoo) [flake](https://github.com/getchoo/flake/tree/main)
+- [XNM1's](https://github.com/XNM1) [linux-nixos-hyprland-config-dotfiles](https://github.com/XNM1/linux-nixos-hyprland-config-dotfiles/)

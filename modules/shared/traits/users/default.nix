@@ -1,5 +1,0 @@
-{
-  imports = [
-    ./junho.nix
-  ];
-}
